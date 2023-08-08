@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sakibabrar999@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny <span>&#128516</span>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
