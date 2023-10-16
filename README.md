@@ -14,9 +14,7 @@
 
 - 💬 Ask me about **Python, JavaScript, React**
 
-- 📫 How to reach me **sakibabrar999@gmail.com**
-
-- ⚡ Fun fact **I am funny <span>&#128516</span>**
+- 📫 How to reach me **sakibkhan1416@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
